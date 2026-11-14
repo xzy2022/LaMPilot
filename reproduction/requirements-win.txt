@@ -1,0 +1,13 @@
+# Zero-shot / Few-shot 最小依赖；使用仓库内的 highway_env，不安装同名 PyPI 包。
+# Human Feedback、ChromaDB 和录像不属于本轮运行范围。
+numpy==1.26.4
+scipy==1.13.1
+pandas==2.2.3
+pygame==2.6.1
+gymnasium==0.29.1
+matplotlib==3.9.4
+tqdm==4.67.1
+langchain==0.2.17
+langchain-openai==0.1.25
+openai==1.109.1
+tiktoken==0.7.0
